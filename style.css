@@ -1,0 +1,16 @@
+.ball {
+    width: 70px;
+    height: 70px;
+    background: red;
+    border-radius: 50%;
+    display: inline-block;
+    border: solid white 1px;
+  }
+
+  .selected {
+      border: solid black 2px;
+  }
+
+#score {
+    display: inline-block;
+}
