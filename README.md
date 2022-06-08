@@ -1,5 +1,11 @@
 # Boas-vindas ao repositório do projeto Color Guess
 
+### README Translations:
+* [English](/README.en.md)
+* [Portuguese](/README.md)
+
+---
+
 ## 👨‍💻 O que foi desenvolvido:
 
   - Uma aplicação utilizando JavaScript, HTML5 e CSS3.
