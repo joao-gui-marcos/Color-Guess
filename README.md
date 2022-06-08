@@ -15,7 +15,7 @@
     - Existe um botão para iniciar e reiniciar o jogo;
     - Ao selecionar uma cor um texto deverá informar se você acertou ou não a cor correta.
 
-:bulb: **Veja uma amostra a seguir**
+:bulb: **Veja uma amostra a seguir:**
 
   <p align="center">
   <img
